@@ -3,7 +3,7 @@
 <p align="center">
   🎓 4A Computer Engineering @ <strong>University of Waterloo</strong> <br/>
   💻 Aspiring Software Engineer • Passionate about Deployment & Design <br/>
-  🌐 <a href="YOUR_WEBSITE_LINK_HERE">Personal Website</a> (coming soon!)
+  🌐 <a href="https://shyanashaiskandan.vercel.app/">Personal Website</a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 
 ### 📫 Let's Connect
-- 🌐 Website: [Insert soon!]
+- 🌐 Website: https://shyanashaiskandan.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/shyana-shaiskandan/
 - 📨 Email: shyana.shais@gmail.com
 
