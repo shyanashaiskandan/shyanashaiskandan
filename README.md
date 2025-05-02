@@ -15,15 +15,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyanashaiskandan&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-
 ### 📫 Let's Connect
 - 🌐 Website: https://shyanashaiskandan.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/shyana-shaiskandan/
