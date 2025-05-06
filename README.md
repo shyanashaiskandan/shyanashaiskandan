@@ -10,8 +10,8 @@
 
 ### 🚀 What I'm Up To
 - 🔍 Currently seeking **Fall 2025** internships in **Software Engineering**
-- 💡 Passionate about scalable systems, intuitive UX, and thoughtful deployment
-- ✨ Always learning something new (currently into cloud infrastructure & observability)
+- 💡 Enjoy building scalable systems and creating clean, user-friendly experiences
+- ✨ Always learning—currently exploring more in cloud infrastructure and system design
 
 ---
 
