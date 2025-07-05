@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Shyana Shaiskandan</h1>
+<h1 align="center">Hi there 👋 I'm Shyana</h1>
 
 <p align="center">
   🎓 4A Computer Engineering @ <strong>University of Waterloo</strong> <br/>
