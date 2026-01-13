@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 What I'm Up To
-- 🔍 Currently seeking **Fall 2025** internships in **Software Engineering** or **Product Management**
+- 🔍 Currently seeking **New Grad** positions in **Software Engineering** or **Product Management**
 - 💡 Enjoy building various projects and creating clean, user-friendly experiences
 - ✨ Always learning—currently exploring more in product management 
 
