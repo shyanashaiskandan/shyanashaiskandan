@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Shyana</h1>
 
 <p align="center">
-  🎓 4A Computer Engineering @ <strong>University of Waterloo</strong> <br/>
+  🎓 4B Computer Engineering @ <strong>University of Waterloo</strong> <br/>
   💻 Aspiring Software Engineer • Passionate about Deployment & Design <br/>
   🌐 <a href="https://shyanashaiskandan.vercel.app/">Personal Website</a>
 </p>
